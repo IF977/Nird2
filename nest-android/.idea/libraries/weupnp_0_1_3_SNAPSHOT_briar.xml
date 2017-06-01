@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weupnp-0.1.3-SNAPSHOT-briar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../bramble-core/libs/weupnp-0.1.3-SNAPSHOT-briar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

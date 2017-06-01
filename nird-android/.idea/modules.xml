@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../nest-android/nest-android.iml" filepath="$PROJECT_DIR$/../nest-android/nest-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nest-api/nest-api.iml" filepath="$PROJECT_DIR$/../nest-api/nest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nest-core/nest-core.iml" filepath="$PROJECT_DIR$/../nest-core/nest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nest-j2se/nest-j2se.iml" filepath="$PROJECT_DIR$/../nest-j2se/nest-j2se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nird.iml" filepath="$PROJECT_DIR$/../nird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nird-android.iml" filepath="$PROJECT_DIR$/nird-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nird-api/nird-api.iml" filepath="$PROJECT_DIR$/../nird-api/nird-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nird-core/nird-core.iml" filepath="$PROJECT_DIR$/../nird-core/nird-core.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bramble-android.iml" filepath="$PROJECT_DIR$/bramble-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bramble-api/bramble-api.iml" filepath="$PROJECT_DIR$/../bramble-api/bramble-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bramble-core/bramble-core.iml" filepath="$PROJECT_DIR$/../bramble-core/bramble-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bramble-j2se/bramble-j2se.iml" filepath="$PROJECT_DIR$/../bramble-j2se/bramble-j2se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../briar.iml" filepath="$PROJECT_DIR$/../briar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../briar-android/briar-android.iml" filepath="$PROJECT_DIR$/../briar-android/briar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../briar-api/briar-api.iml" filepath="$PROJECT_DIR$/../briar-api/briar-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../briar-core/briar-core.iml" filepath="$PROJECT_DIR$/../briar-core/briar-core.iml" />
+    </modules>
+  </component>
+</project>
